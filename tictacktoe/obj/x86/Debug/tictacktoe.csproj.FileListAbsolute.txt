@@ -1,0 +1,22 @@
+D:\all\универ лабы\численные методы\source\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.exe
+D:\all\универ лабы\численные методы\source\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.pdb
+D:\all\универ лабы\численные методы\source\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.csprojAssemblyReference.cache
+D:\all\универ лабы\численные методы\source\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.MainForm.resources
+D:\all\универ лабы\численные методы\source\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.csproj.GenerateResource.cache
+D:\all\универ лабы\численные методы\source\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.exe
+D:\all\универ лабы\численные методы\source\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.pdb
+C:\Users\DSTRK\OneDrive\Рабочий стол\универ\2021\фирсов\tic-tac-toe\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.exe
+C:\Users\DSTRK\OneDrive\Рабочий стол\универ\2021\фирсов\tic-tac-toe\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.pdb
+C:\Users\DSTRK\OneDrive\Рабочий стол\универ\2021\фирсов\tic-tac-toe\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.csprojAssemblyReference.cache
+C:\Users\DSTRK\OneDrive\Рабочий стол\универ\2021\фирсов\tic-tac-toe\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.MainForm.resources
+C:\Users\DSTRK\OneDrive\Рабочий стол\универ\2021\фирсов\tic-tac-toe\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.csproj.GenerateResource.cache
+C:\Users\DSTRK\OneDrive\Рабочий стол\универ\2021\фирсов\tic-tac-toe\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.exe
+C:\Users\DSTRK\OneDrive\Рабочий стол\универ\2021\фирсов\tic-tac-toe\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.pdb
+C:\Users\Manzhula\Downloads\pr2\pr2\tictacktoe\bin\Debug\tictacktoe.exe
+C:\Users\Manzhula\Downloads\pr2\pr2\tictacktoe\bin\Debug\tictacktoe.pdb
+C:\Users\Manzhula\Downloads\pr2\pr2\tictacktoe\obj\x86\Debug\tictacktoe.csprojResolveAssemblyReference.cache
+C:\Users\Manzhula\Downloads\pr2\pr2\tictacktoe\obj\x86\Debug\tictacktoe.MainForm.resources
+C:\Users\Manzhula\Downloads\pr2\pr2\tictacktoe\obj\x86\Debug\tictacktoe.csproj.GenerateResource.cache
+C:\Users\Manzhula\Downloads\pr2\pr2\tictacktoe\obj\x86\Debug\tictacktoe.csproj.CoreCompileInputs.cache
+C:\Users\Manzhula\Downloads\pr2\pr2\tictacktoe\obj\x86\Debug\tictacktoe.exe
+C:\Users\Manzhula\Downloads\pr2\pr2\tictacktoe\obj\x86\Debug\tictacktoe.pdb
